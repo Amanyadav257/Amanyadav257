@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Networking(How to create a torrent client)**
 
-- 👨‍💻 My portfolio: [https://amanyadav257.github.io/My-Portfolio/](https://amanyadav257.github.io/My-Portfolio/)
+- 👨‍💻 My portfolio: <a href="https://amanyadav257.github.io/My-Portfolio">click here</a>
 
 - 📫 How to reach me **amanyadav01g@gmail.com**
 
-- 📄 My resume: [https://drive.google.com/file/d/1CbEsHZTUx_FjEiidG3OxVq6DBRbDBt67/view?usp=sharing](https://drive.google.com/file/d/1CbEsHZTUx_FjEiidG3OxVq6DBRbDBt67/view?usp=sharing)
+- 📄 My resume: <a href="https://drive.google.com/file/d/1CbEsHZTUx_FjEiidG3OxVq6DBRbDBt67/view?usp=sharing">click here</a>
 <br>
 <br>
 <h1 align="center">Connect with me:</h1>
