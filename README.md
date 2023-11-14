@@ -44,3 +44,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyadav257&show_icons=true&locale=en" alt="amanyadav257" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyadav257&" alt="amanyadav257" /></p>
+<br>
+
+<h1 align="center">Leetcode:</h1>
+<img align="center" src="https://leetcard.jacoblin.cool/CodeChange?ext=activity"/>
+
