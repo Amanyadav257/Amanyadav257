@@ -34,8 +34,8 @@
           <div class="row" id="skillsContainer" style="display: grid; grid-template-columns: repeat(6, 1fr); flex-wrap: wrap; gap: 1.8rem;">
             <div class="bar" style=" margin-bottom: 15px; padding: 10px; border-radius: 1rem; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); background: rgba(0, 0, 22, 0.9); transition: 0.2s;">
               <div class="info" style="  display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-top: 1rem;">
-                <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
-                <span Style=" font-size: 2rem; font-weight: 500; font-family: 'Poppins'; margin-left: 0.5rem;">AdobeXD</span>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<!--                 <span Style=" font-size: 2rem; font-weight: 500; font-family: 'Poppins'; margin-left: 0.5rem;">AdobeXD</span> -->
               </div>
             </div> 
       </div>
