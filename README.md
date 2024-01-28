@@ -45,6 +45,7 @@
   min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
+<style>
 .skills h2 {
   color: #fff;
 }
@@ -94,6 +95,7 @@
   font-family: "Poppins";
   margin-left: 0.5rem;
 }
+</style>
 <br>
 
 <h1 align="center">Web Dev APIs:</h1>
