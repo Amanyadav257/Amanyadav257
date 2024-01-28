@@ -41,11 +41,12 @@
       </div>
 </div>
 </section>
+
+<style>
 .skills {
   min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
-<style>
 .skills h2 {
   color: #fff;
 }
