@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanyadav01g@gmail.com**
 
-- 📄 My resume: <a href="https://drive.google.com/file/d/1CbEsHZTUx_FjEiidG3OxVq6DBRbDBt67/view?usp=sharing">click here</a>
+- 📄 My resume: <a href="https://drive.google.com/file/d/1JE8NZWwA1QKklrL9v4BiKISUCqBRlnUi/view?usp=drive_link">click here</a>
 <br>
 <br>
 <br>
